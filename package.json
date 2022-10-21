@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Noahbrown26/Project2.git"
+    "url": "git+https://github.com/Goldnboy26/vinyl2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Noahbrown26/Project2/issues"
+    "url": "https://github.com/Goldnboy26/vinyl2/issues"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
