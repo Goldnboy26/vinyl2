@@ -24,7 +24,7 @@ Project Vinyl that is a search engine that utilizes the itunes API to find songs
 - Bcrypt
 
 ## Screenshots
-
+<img width="1440" alt="screen4" src="https://user-images.githubusercontent.com/106297412/197307323-5a7b9c8c-ef79-40f9-9689-e42bb24a1d9f.PNG">
 ![](./public/images/screen1.PNG)
 ![](./public/images/screen2.PNG)
 
