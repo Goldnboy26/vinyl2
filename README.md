@@ -27,7 +27,6 @@ Project Vinyl that is a search engine that utilizes the itunes API to find songs
 
 ![](./public/images/screen1.PNG)
 ![](./public/images/screen2.PNG)
-![](./public/images/screen4.PNG)
 
 - [Eduardo Monje](https://github.com/Goldnboy26)
 - [Noah Brown](https://github.com/Noahbrown26)
